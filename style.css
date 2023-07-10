@@ -1,0 +1,51 @@
+/*shared common style*/
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+
+/* this is banner style*/
+
+.banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px 150px 0px 150px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner-heading{
+color: #272727;
+font-size: 80px;
+font-weight: 800;
+margin-bottom: 15px;
+}
+
+.banner-profile-pic{
+    width: 635px;
+    height: 800px;
+} 
+
+.banner-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+
+
+}
+
+.btn-primary{
+    padding: 20px 43px;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+
+}
+
+/*featured style secton*/
+
+
