@@ -1,11 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
 /*shared common style*/
+
 
 body{
     font-family: 'Lato', sans-serif;
 }
+ 
+
 
 
 /* this is banner style*/
+
+
+
 
 .banner-container{
     display: flex;
@@ -255,10 +268,11 @@ font-weight: 400;
 
 .footer-des{
     color: rgb(168, 167, 167);
+    margin-top: 24px;
 }
 .footer-header{
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .span1{
@@ -266,4 +280,5 @@ font-weight: 400;
 }
 .copyright{
     color: rgb(66, 65, 65);
+    margin-top: 24px;
 }
