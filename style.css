@@ -48,4 +48,62 @@ font-weight: 400;
 
 /*featured style secton*/
 
+.featured-title{
+    margin-top: 100px;
+    padding: 0 600px;
+     text-align: center;
+     margin-bottom: 20px;
+}
+.feature-header{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+
+.feature-description{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin:   0 200px ;
+    
+
+}
+.f1{
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 0 78px;
+
+} 
+.f2{
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 117px 47px 50px 47px;
+}
+
+.f3{
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 67px 75px 0 75px;
+
+}
+
+figure{
+    
+display: flex;
+ color: #272727;
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+text-decoration-line: underline;
+padding: 0 280px;
+gap: 310px;
+
+  
+}
 
