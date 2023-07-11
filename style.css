@@ -120,6 +120,48 @@ align-items: center;
 text-align: center;
 }
 
+    /*this is sign section*/
+    .sign-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+        padding: 50px 200px;
+         border-radius: 8px;
+        background: rgba(229, 84, 115, 0.05);
+    }
+    .sign-pic{
+        width: 318px;
+        height: 420px;
+       
+}
     
+    .sign-header{
+        
+        
+       
+        color: #272727;
+        font-size: 40px;
+        font-weight: 800;
+    }
+    .span{
+       color: #E55473; 
+    }
+    .sign-paragraph{
+        margin-top: 24px;
+        
+    }
+    .btn-secondary{
+        padding: 20px 43px;
+        border-radius: 8px;
+        background-color: #E55473;
+        border: none;
+        color: #FFF;
+       font-size: 20px;
+       font-weight: 700;
+
+        
+
+    }
 
 
