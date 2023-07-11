@@ -163,5 +163,107 @@ text-align: center;
         
 
     }
+    .instragram{
+        align-items: center;
+        justify-content: space-around;
+        padding: 100px 200px;
+        margin: o 150px;
+       text-align: center;
+       
+       
+       
+    }
+
+ .inst-pic{
+    width: 300px;
+     height: 350px;
+     margin-right: 24px;
+     
+    
+ }
+ .insta-deatail{
+    color: rgba(39, 39, 39, 0.60);
+   font-size: 18px;
+   font-weight: 400;
+   margin-bottom: 48px;
+
+ }
+ .inst-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+ }
+.bgpic{
+    width: 1440px;
+    height: 449px;
+    background-image: url('image/Rectangle\ 9.png');
+    margin: 50px 150px 100px 150px;
+    padding: 120px 250px ;
+    background-repeat: no-repeat;}
+    
+
+.all-about{
+    text-align: center;
+    padding-right: 500px;
+}
+
+.title-bar{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+
+}
+.desbar{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+
+}
+.inputbar{
+width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+border: none;
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
+}
+
+.subscrib{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    padding: 18px 25px;
+    margin: 10px;
+    color: #FFF;
+    font-weight: 700;
+}
 
 
+
+/*footer section*/
+.footer-container{
+    color: #FFF;
+    background-color: black;
+    text-align: center;
+    padding:150px 300px;
+    
+}
+
+.footer-des{
+    color: rgb(168, 167, 167);
+}
+.footer-header{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.span1{
+    color: #E55473;
+}
+.copyright{
+    color: rgb(66, 65, 65);
+}
